@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate in python who loves to explore, b
 Here are some of the technologies I work with:
 
 - **Languages**: Python, JavaScript, HTML, CSS, SQL 
-- **Frameworks**:  Flask, Django, Taolwind
+- **Frameworks**:  Flask, Django, Tailwind
 - **Databases**: MySQL
 - **Tools**: Git, VS Code,  
 
