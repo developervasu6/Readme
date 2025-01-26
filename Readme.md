@@ -23,9 +23,8 @@ Feel free to explore my repositories and contribute to them!
 
 ## 📬 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/[YourLinkedInProfile])
-- [Twitter](https://twitter.com/[YourTwitterHandle])
-- [Email](mailto:[YourEmail])
+- [LinkedIn](https://www.linkedin.com/in/vasu-graphicdesign/)
+- [Email](mailto:[developervasu6@gmail.com])
 
 ---
 
