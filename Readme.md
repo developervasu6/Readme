@@ -1,25 +1,23 @@
 # Hi there 👋, I'm Pankaj Vasu
 
-Welcome to my GitHub profile! I'm a passionate in python who loves to explore, build, and share meaningful projects. I'm currently diving deep into python, flask.
+Welcome to my GitHub profile! I'm a passionate in python who loves to explore, build, and share meaningful projects. I'm currently diving deep into HTML AND CSS JAVASCRIPT .
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning new skills
-- 👯 I’m looking to collaborate on [Collaboration Interests, e.g., web development, AI, open-source projects]
+- 👯 I’m looking to collaborate on [web development, AI, open-source projects]
 - 🤔 I’m open to [Networking, Freelance work, Mentorship opportunities]
-- 💬 Ask me about [Your areas of expertise]
-- 📫 How to reach me: [Your contact info - email, LinkedIn, etc.]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A fun or interesting fact about you]
+- 💬 Ask me about [Python,HTML,CSS,React,Javascript]
+- 📫 How to reach me: [developervasu6]
 
 ## 🛠️ Technologies & Tools
 
 Here are some of the technologies I work with:
 
-- **Languages**: Python, JavaScript, HTML, CSS, SQL
-- **Frameworks**:  Flask, Django
+- **Languages**: Python, JavaScript, HTML, CSS, SQL 
+- **Frameworks**:  Flask, Django, Taolwind
 - **Databases**: MySQL
-- **Tools**: Git, VS Code 
+- **Tools**: Git, VS Code,  
 
 Feel free to explore my repositories and contribute to them!
 
